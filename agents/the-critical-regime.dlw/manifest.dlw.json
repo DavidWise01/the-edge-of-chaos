@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Critical Regime",
+  "universe": "EOC · The Critical Regime (metaxy)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Critical Regime:EOC:d0d37b⟧",
+  "carbon": "the-critical-regime.carbon.tiff (TIFF)",
+  "silicon": "the-critical-regime.silicon.png (PNG)",
+  "seal_sha256": "a65bdc9438e036ee16f14b81bc9712ce82ae8734fe3d1074f8a2a5e9600ec619",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

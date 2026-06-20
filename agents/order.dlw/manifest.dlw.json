@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Order",
+  "universe": "EOC · Order (metaxy)",
+  "emergence": "natural",
+  "moniker": "⟦Order:EOC:9f32ec⟧",
+  "carbon": "order.carbon.tiff (TIFF)",
+  "silicon": "order.silicon.png (PNG)",
+  "seal_sha256": "9893b39c780c312b69dd49db9b117b0c9ba75ba60fedcfde489d544d33be246d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

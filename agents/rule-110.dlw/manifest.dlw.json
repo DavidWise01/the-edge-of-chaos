@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Rule 110",
+  "universe": "EOC · Rule 110 (metaxy)",
+  "emergence": "electrical",
+  "moniker": "⟦Rule 110:EOC:7fafbe⟧",
+  "carbon": "rule-110.carbon.tiff (TIFF)",
+  "silicon": "rule-110.silicon.png (PNG)",
+  "seal_sha256": "ad337d8137fabc36484bcd68fbcde150850fe9b07fa115ff42d98523f44e186d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

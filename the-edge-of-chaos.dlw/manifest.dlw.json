@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE EDGE OF CHAOS",
+  "universe": "EOC · THE EDGE OF CHAOS (metaxy · the between)",
+  "emergence": "",
+  "moniker": "⟦THE EDGE OF CHAOS:EOC:1b4938⟧",
+  "carbon": "the-edge-of-chaos.carbon.tiff (TIFF)",
+  "silicon": "the-edge-of-chaos.silicon.png (PNG)",
+  "seal_sha256": "ddb670110b64430765b498f11b087e57a32cd9da9c9a17bf0dfb536962464673",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Sandpile",
+  "universe": "EOC · The Sandpile (metaxy)",
+  "emergence": "natural",
+  "moniker": "⟦The Sandpile:EOC:e0b41a⟧",
+  "carbon": "the-sandpile.carbon.tiff (TIFF)",
+  "silicon": "the-sandpile.silicon.png (PNG)",
+  "seal_sha256": "75b57283a98165c71b219d85c4a4e8098636a82565d38731c650cd8a21882270",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

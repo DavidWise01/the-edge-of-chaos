@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Universal Computation",
+  "universe": "EOC · Universal Computation (metaxy)",
+  "emergence": "electrical",
+  "moniker": "⟦Universal Computation:EOC:ea7be9⟧",
+  "carbon": "universal-computation.carbon.tiff (TIFF)",
+  "silicon": "universal-computation.silicon.png (PNG)",
+  "seal_sha256": "5d165600054659ac4fcbcb26140afb06ecc957602125fce27204cce64a0971bb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

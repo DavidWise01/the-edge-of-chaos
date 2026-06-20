@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Self-Organized Criticality",
+  "universe": "EOC · Self-Organized Criticality (metaxy)",
+  "emergence": "spiritual",
+  "moniker": "⟦Self-Organized Criticality:EOC:a9ec2c⟧",
+  "carbon": "self-organized-criticality.carbon.tiff (TIFF)",
+  "silicon": "self-organized-criticality.silicon.png (PNG)",
+  "seal_sha256": "639f52661dec4968614bcd92e38b92da53be2c25ea81a74fdcac0379b5b78483",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

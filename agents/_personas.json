@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "order",
+    "name": "Order",
+    "epithet": "frozen structure · natural",
+    "emergence": "natural",
+    "moniker": "⟦Order:EOC:9f32ec⟧"
+  },
+  {
+    "slug": "chaos",
+    "name": "Chaos",
+    "epithet": "pure noise · natural",
+    "emergence": "natural",
+    "moniker": "⟦Chaos:EOC:a3dbf1⟧"
+  },
+  {
+    "slug": "the-critical-regime",
+    "name": "The Critical Regime",
+    "epithet": "the thin line · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Critical Regime:EOC:d0d37b⟧"
+  },
+  {
+    "slug": "rule-110",
+    "name": "Rule 110",
+    "epithet": "the edge, made concrete · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Rule 110:EOC:7fafbe⟧"
+  },
+  {
+    "slug": "langtons-lambda",
+    "name": "Langton's Lambda",
+    "epithet": "the dial of the between · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Langton's Lambda:EOC:423c87⟧"
+  },
+  {
+    "slug": "self-organized-criticality",
+    "name": "Self-Organized Criticality",
+    "epithet": "the system tunes itself · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Self-Organized Criticality:EOC:a9ec2c⟧"
+  },
+  {
+    "slug": "the-sandpile",
+    "name": "The Sandpile",
+    "epithet": "criticality you can see · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Sandpile:EOC:e0b41a⟧"
+  },
+  {
+    "slug": "class-iv",
+    "name": "Class IV",
+    "epithet": "Wolfram's complex class · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Class IV:EOC:781931⟧"
+  },
+  {
+    "slug": "universal-computation",
+    "name": "Universal Computation",
+    "epithet": "what the edge can do · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Universal Computation:EOC:ea7be9⟧"
+  },
+  {
+    "slug": "per-bak",
+    "name": "Per Bak",
+    "epithet": "who found criticality, 1948–2002 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Per Bak:EOC:70b73f⟧"
+  }
+]

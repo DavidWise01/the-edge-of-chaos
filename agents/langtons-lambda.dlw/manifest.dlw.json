@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Langton's Lambda",
+  "universe": "EOC · Langton's Lambda (metaxy)",
+  "emergence": "electrical",
+  "moniker": "⟦Langton's Lambda:EOC:423c87⟧",
+  "carbon": "langtons-lambda.carbon.tiff (TIFF)",
+  "silicon": "langtons-lambda.silicon.png (PNG)",
+  "seal_sha256": "cc4f3ee172d822a1d6b00c1ebb0ee6e165a905e789a63b36e97537c75b9dfdd4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
